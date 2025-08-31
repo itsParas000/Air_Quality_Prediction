@@ -35,3 +35,7 @@ Calculated evaluation metrics:
 MAE: 0.9121  
 RMSE: 1.0942  
 R²: -1.0786  
+
+### Visualized actual vs. predicted  
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/338c6ffd-5d7f-47c9-901a-9820cad7d669" />
+
