@@ -21,3 +21,7 @@ File: AirQualityUCI.xlsx
 ### Feature Engineering  
 Retained key columns (e.g., CO(GT), NOx(GT), T, RH).  
 Set datetime as the index and scaled numeric data using StandardScaler.  
+
+### Model Development  
+Split data into 80% training and 20% testing sets.  
+Trained a Prophet model with yearly, weekly, and daily seasonality on CO(GT).  
