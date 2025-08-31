@@ -7,7 +7,7 @@ File: AirQualityUCI.xlsx
 
 ### Libraries Required:
 1. Data Manipulation and Analysis:
-   o pandas
+   o pandas  
    o numpy
 2. Data Visualization:
    o matplotlib
