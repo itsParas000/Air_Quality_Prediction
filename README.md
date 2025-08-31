@@ -6,13 +6,13 @@ Source: UCI Machine Learning Repository - Air Quality Data Set
 File: AirQualityUCI.xlsx
 
 ### Libraries Required:
-    1. Data Manipulation and Analysis:
-o pandas
-o numpy
+1. Data Manipulation and Analysis:
+   o pandas
+   o numpy
 2. Data Visualization:
-o matplotlib
-o seaborn
+   o matplotlib
+   o seaborn
 3. Machine Learning:
-o scikit-learn
+   o scikit-learn
 4. Forecasting:
-o fbprophet
+   o fbprophet
