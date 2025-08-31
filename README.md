@@ -16,3 +16,8 @@ File: AirQualityUCI.xlsx
    o scikit-learn  
 4. Forecasting:  
    o fbprophet  
+
+
+### Feature Engineering  
+Retained key columns (e.g., CO(GT), NOx(GT), T, RH).
+Set datetime as the index and scaled numeric data using StandardScaler.  
